@@ -1,0 +1,14 @@
+{
+  "name": "discordytbotv13",
+  "version": "1.0.0",
+  "description": "Test Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeroen Maassen van den Brink",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.7.0"
+  }
+}
